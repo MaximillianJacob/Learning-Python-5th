@@ -1,0 +1,17 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore log files
+*.log
+
+# Ignore embedded Git repositories
+Oreilley/Hands_on_Unsupervised_Learning_Using_Python/Hands-on-Unsupervised-Learning-Using-Python
+Oreilley/Hands_on_Unsupervised_Learning_Using_Python/handson-unsupervised-learning
